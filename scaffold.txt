@@ -1,1 +1,0 @@
-Scaffold-DbContext "Server=192.168.1.83;Database=Books;User ID=books_api;Password=1111;Trusted_Connection=False;Encrypt=True;Connection Timeout=2400;MultipleActiveResultSets=True;trustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Schemas dbo -Force
