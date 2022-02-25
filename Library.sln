@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{6CEA3F25-2D1A-4A5A-B0E3-CF6BEB70D1F9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "utils", "utils", "{488355FB-DEB8-4F1E-8AA6-50B6F75B57D6}"
-	ProjectSection(SolutionItems) = preProject
-		scaffold.txt = scaffold.txt
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
